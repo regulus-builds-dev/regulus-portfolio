@@ -24,7 +24,21 @@ Building software that solves real-world problems through clean architecture, ma
 
 ## Portfolio
 
-Coming soon.
+Your live portfolio is:
+
+https://regulus-portfolio.vercel.app
+
+Your Vercel project dashboard is:
+
+https://vercel.com/regulusbuildsdev/regulus-portfolio
+
+Your GitHub repository is:
+
+https://github.com/regulus-builds-dev/regulus-portfolio
+
+Use the portfolio URL when sharing with clients:
+
+https://regulus-portfolio.vercel.app
 
 ## Contact
 
