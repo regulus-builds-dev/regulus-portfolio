@@ -1,9 +1,3 @@
-import {
-    // FaArrowRight,
-    FaGithub,
-    FaLinkedin,
-} from "react-icons/fa";
-
 import Button from "./ui/Button";
 import Badge from "./ui/Badge";
 import Container from "./ui/Container";
