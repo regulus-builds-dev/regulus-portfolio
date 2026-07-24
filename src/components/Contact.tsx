@@ -84,8 +84,8 @@ export default function Contact() {
 
                                 </a>
 
-                                {/* <a
-                                    href="https://github.com/YOUR_USERNAME"
+                                <a
+                                    href="https://github.com/regulus-builds-dev"
                                     target="_blank"
                                     rel="noreferrer"
                                     className="flex items-center gap-4 transition hover:text-blue-400"
@@ -95,11 +95,11 @@ export default function Contact() {
 
                                     <span>
 
-                                        github.com/YOUR_USERNAME
+                                        github.com/regulus-builds-dev
 
                                     </span>
 
-                                </a> */}
+                                </a>
 
                                 <a
                                     href="https://linkedin.com/in/regulus-builds-dev"
